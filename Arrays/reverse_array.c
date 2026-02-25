@@ -7,3 +7,4 @@ printf("%d" , arr[i]);
 }
 return 0 ;
 }
+// Program written by Saloni 
